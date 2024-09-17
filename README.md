@@ -1,2 +1,2 @@
 # gimp-palettes
-Some palettes for gimpand palettes mainly as a base for military model painting
+Some palettes for gimp and inkscape. The palettes mainly are intended as a base for military model painting.

@@ -1,0 +1,41 @@
+GIMP Palette
+Name: Bundeswehrfarben
+Columns: 4
+#
+# Version: 1.0
+# Date: 2024-09-15
+#
+# http://bwmod.de/index.php/tutorials/farbtabelle
+207	196	178		Bundeswehr: Fahrzeug (sichtgeschlossen)
+74	71	56		Bundeswehr: Fahrzeug bis `84 RAL 6014
+74	83	66		Bundeswehr: Fahrzeug ab `84 RAL 6031 F9
+87	73	60		Bundeswehr: Fahrzeug ab `84 RAL 8027 F9
+36	37	41		Bundeswehr: Fahrzeug ab `84 RAL 9021 F9
+71	81	53		Heeresflieger: Hflg Norm ´83 '84 RAL 6003
+56	61	40		Heeresflieger: Hflg Norm '84 FS 34979
+38	43	50		Heeresflieger: Hflg Norm ´83 '84 RAL 7021
+66	63	44		Heeresflieger: Hflg Norm ´83 FS 34079
+255	134	15		Heeresflieger: Signalfarbe, SAR RAL 2005
+255	35	0		Bundesmarine: Seenotrettungsmit. „safety orange“
+135	148	165		Bundesluftwaffe: Luftwaffe Norm `81 RAL 7001
+77	82	75		Bundesluftwaffe: Luftwaffe Norm `81 RAL 7009
+74	85	89		Bundesluftwaffe: Luftwaffe Norm `81 RAL 7012
+146	143	136		Bundesluftwaffe: Luftwaffe Norm `81 RAL 7030
+211	216	219		Bundesluftwaffe: Luftwaffe Norm `81 RAL 7035
+121	125	128		Bundesluftwaffe: Luftwaffe Norm `81 RAL 7037
+97	94	89		Bundesluftwaffe: Luftwaffe Norm `81 RAL 7039
+21	22	25		Bundesluftwaffe: Luftwaffe Norm `81 RAL 9005
+188	174	139		Bundeswehr: Umtarnfarbe Wüste RAL 1039 F9
+157	134	100		Bundeswehr: Umtarnfarbe Wüste RAL 8031 F9
+164	149	106		Bundeswehr: Umtarnfarbe Wüste RAL 1040 F9
+118	117	87		Bundeswehr: Umtarnfarbe Wüste RAL 6040 F9
+113	110	101		Bundeswehr: Umtarnfarbe Wüste RAL 7050 F9
+167	173	109		BW Uniform: 5	Farb Flecktarn Flächendeckung 10%
+97	104	71		BW Uniform: 5	Farb Flecktarn Flächendeckung 20%
+67	74	57		BW Uniform: 5	Farb Flecktarn Flächendeckung 35%
+118	74	47		BW Uniform: 5	Farb Flecktarn Flächendeckung 20%
+49	45	42		BW Uniform: 5	Farb Flecktarn Flächendeckung 10%
+211	194	166		BW Uniform: 3	Farb Flecktarn Flächendeckung 70%
+119	87	53		BW Uniform: 3	Farb Flecktarn Flächendeckung 20%
+67	74	57		BW Uniform: 3	Farb Flecktarn Flächendeckung 10%
+

@@ -1,0 +1,18 @@
+GIMP Palette
+Name: Wehrmacht Panzer Farben
+Columns: 4
+#
+# Version: 1.0
+# Date: 2024-09-14
+#
+# Different sources from web
+92	94	76		Olivgrün – ab 1943
+125	106	79		Graugrün – Afrika ab 1941
+71	72	74		Panzergrau/Dunkelgrau – Grundfarbe (RAL 46)
+123	118	94		Grau – ab 1942
+100	94	70		Dunkelgelb – ab 1943
+130	108	52		Sandgelb/Gelbbraun – Afrika ab 1941
+129	90	78		Signalbraun – 1935 bis 1943 (Wolken auf Panzergrau)
+111	70	65		Rostschutz
+84	69	66		Rotbraun/Schokolade – ab 1943
+220	195	159		Braun/Sandbraun – ab 1942
